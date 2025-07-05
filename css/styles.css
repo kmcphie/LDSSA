@@ -1,0 +1,47 @@
+header {
+    background-color: #982b34;
+    background-image: url("../img/gate2.jpeg");
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h2, h3, h4 {
+    color: #982b34;
+}
+
+.panel-body {
+    padding-bottom: 10px;
+}
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 10px;
+}
+
+.panel a {
+    color: black;
+}
+
+#exception-link, #exception-link2 {
+    color: black;
+}
+
+.padded {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.img-custom {
+    max-width: 75%;
+    height: auto;
+    justify-self: center;
+}
+
+#mainNav {
+    background-color: rgba(255, 255, 255, 0.25);
+}
